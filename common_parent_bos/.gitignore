@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target
+before/target/
+bos_manager/dao/src/main/resources/
+bos_manager/dao/src/test/
+bos_manager/dao/target/
+bos_manager/domain/src/main/resources/
+bos_manager/domain/src/test/
+bos_manager/domain/target/
+bos_manager/service/src/main/resources/
+bos_manager/service/src/test/
+bos_manager/service/target/
+bos_manager/web/target/
+crm/target/
+middleware/target/
+utils/src/main/resources/
+utils/target/
